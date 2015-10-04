@@ -10,4 +10,6 @@ func main() {
     fmt.Printf("alreet\n")
 
     fmt.Printf(stringutil.Reverse("!oG ,olleH") + "\n")
+
+    fmt.Printf(stringutil.Reverse("Hello go") + "\n")
 }
